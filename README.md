@@ -38,7 +38,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Sagar-Pariyar/PhonePro
+   git clone https://github.com/anushkap611/PhonePro
    cd PhonePro
    ```
 3. **Install dependencies**
@@ -51,7 +51,3 @@
    streamlit run app.py
    ```
 
-
-## 🙌 Credits
-
-Built with ❤️ by Sagar pariyar and Team as part of Data mining and Warehousing coursework
